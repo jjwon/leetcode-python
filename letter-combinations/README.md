@@ -1,5 +1,7 @@
 # Letter Combinations of a Phone Number
 
+[Link to the problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
 ## Problem Statement
 Given a digit string, return all possible letter combinations that the number could represent.
 

@@ -11,6 +11,7 @@ class Solution(object):
         :type root: TreeNode
         :rtype: void Do not return anything, modify root in-place instead.
         """
+        # flatten left and right, and then concatenate left and right on the right side
         head = root
         if root:
             self.flatten(root.left)

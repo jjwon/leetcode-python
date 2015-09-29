@@ -1,5 +1,7 @@
 # Decode Ways
 
+[Link to the problem](https://leetcode.com/problems/decode-ways/)
+
 ## Problem Statement
 A message containing letters from A-Z is being encoded to numbers using the following mapping:
 
